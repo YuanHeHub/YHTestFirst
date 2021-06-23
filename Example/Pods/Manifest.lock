@@ -1,0 +1,16 @@
+PODS:
+  - YHTestFirst (0.1.0)
+
+DEPENDENCIES:
+  - YHTestFirst (from `../`)
+
+EXTERNAL SOURCES:
+  YHTestFirst:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YHTestFirst: db0f468916a15581936bf6d46a4d77b5aa3d61b6
+
+PODFILE CHECKSUM: 594a4e9f5050e5187758eabfdd4d8cc4f83a4fb0
+
+COCOAPODS: 1.9.3
